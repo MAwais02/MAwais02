@@ -1,8 +1,5 @@
 # Hi, I'm Awais
 
-**CS Graduate @ FAST Lahore | MERN Developer | Building AI Powered Products**
-
-
 - I build systems that survive Black Friday traffic
 
 ---
